@@ -2,4 +2,6 @@ Johana
 
 Estamos realizando curso platzi git y github
 
+El curso debe tener certificacion
+
 Hoy es 06 de agosto de 2020
