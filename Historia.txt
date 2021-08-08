@@ -2,6 +2,6 @@ Johana
 
 Estamos realizando curso platzi git y github
 
-El curso debe tener certificacion
+El curso debe tener certificacion y para realizar la certificacion se deben ver todos los videos
 
 Hoy es 08 de agosto de 2021
