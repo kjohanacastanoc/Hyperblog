@@ -2,6 +2,8 @@ Johana
 
 Estamos realizando curso platzi git y github
 
+Git es un sistema para mantener un orden en el versionamiento
+
 El curso debe tener certificacion y para realizar la certificacion se deben ver todos los videos
 
 Hoy es 08 de agosto de 2021
