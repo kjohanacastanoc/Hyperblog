@@ -1,3 +1,4 @@
 # Hyperblog
 Blog del curso platzi
-Edición johana
+Esta info se escribe desde kjohanacastanoc
+Edición johanacastano8
