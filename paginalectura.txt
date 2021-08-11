@@ -1,0 +1,2 @@
+hola
+esta p&acutegina se creo con el fin de validar si desde otra cuenta puedo solicitar hacer cambios al repositorio
